@@ -1,4 +1,7 @@
 # Ground-Elite
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/480a795f66c948bab9e321d72b48524f)](https://app.codacy.com/gh/Stephenvega2/Ground-Elite?utm_source=github.com&utm_medium=referral&utm_content=Stephenvega2/Ground-Elite&utm_campaign=Badge_Grade)
+
 A game to unlock more then just a game 
 
 Welcome to Ground-Elite: The Energy Comm System Game!
