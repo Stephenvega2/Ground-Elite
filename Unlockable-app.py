@@ -34,10 +34,10 @@ from Crypto.Cipher import AES
 import secrets # Used in EnergyCommSystem
 
 # --- Import EnergyCommSystem and simulated_blockchain_ledger from your game file ---
-# For this to work, you need to ensure main_game.py exists and has been run
+# For this to work, you need to ensure from game.py exists and has been run
 # to populate the global simulated_blockchain_ledger dictionary.
 try:
-    from main_game import simulated_blockchain_ledger, EnergyCommSystem
+    from game import simulated_blockchain_ledger, EnergyCommSystem
 except ImportError:
     print("Warning: Could not import simulated_blockchain_ledger and EnergyCommSystem from game.py.")
     print("Please ensure game.py exists and has been run to populate the ledger for this demo,")
